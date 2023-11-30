@@ -1,0 +1,46 @@
+.menu11 {
+  position: relative;
+  font-weight: 800;
+}
+.property-1default {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-xl);
+}
+.menu12 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 800;
+}
+.property-1important {
+  position: absolute;
+  top: 95px;
+  left: 26px;
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  color: var(--color-black);
+}
+.button3 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 154px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--h1);
+}
